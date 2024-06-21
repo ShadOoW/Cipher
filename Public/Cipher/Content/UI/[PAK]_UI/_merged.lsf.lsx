@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="328" />
+    <region id="TextureBank">
+        <node id="TextureBank">
+            <children>
+                <node id="Resource">
+                    <attribute id="ID" type="FixedString" value="fbf09174-c80b-4cb3-be81-d80fb6697096" />
+                    <attribute id="Localized" type="bool" value="False" />
+                    <attribute id="Name" type="LSString" value="Cipher_Icons" />
+                    <attribute id="SRGB" type="bool" value="True" />
+                    <attribute id="SourceFile" type="LSString" value="Public/Cipher/Assets/Textures/Icons/Cipher_Icons.dds" />
+                    <attribute id="Streaming" type="bool" value="True" />
+                    <attribute id="Template" type="FixedString" value="Icons_Items" />
+                    <attribute id="Type" type="int64" value="0" />
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
+                    

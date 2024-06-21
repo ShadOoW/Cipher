@@ -1,0 +1,4 @@
+new entry "UnlockedFocusSlots"
+type "PassiveData"
+data "DisplayName" "h02f5c897g2198g4038g818dg52f53b94e4c9;1"
+data "Properties" "IsHidden"
